@@ -1,5 +1,3 @@
-## Note,Memo...
-
 # Markdown
 
 # Heading
@@ -11,8 +9,19 @@
   - list
 
 > Quote
+>> Quote Quote...
 
-# Command
+----
+code
+   code.func()
+   
+----
 
+I use this 'command'.
+
+
+
+Command
+--
  $ cd .
-
+--
