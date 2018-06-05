@@ -12,8 +12,8 @@
 >> Quote Quote...
 
 ----
-code
-   code.func()
+    code
+       code.func()
    
 ----
 
@@ -23,5 +23,5 @@ I use this 'command'.
 
 Command
 --
- $ cd .
+     $ cd .
 --
